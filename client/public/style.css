@@ -1,0 +1,51 @@
+.input_style{
+    margin-top: 10px;
+}
+
+nav{
+    background-color: #24292e; 
+}
+
+th{
+    border-right: 1px solid silver;
+}
+
+.head_text{
+    color: white;
+    margin: 0px;
+}
+
+.form_registration{
+    margin-top: 100px;
+}
+
+a{
+    color:white;
+}
+
+a:visited {
+    color: white;
+}
+   
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.btn-contr1{
+    margin-top: 80px;
+}
+
+.btn-contr2{
+    margin-top: 60px;
+}
+
+.text_body_reg{
+    margin-top: 100px;
+    color: white;
+}
+
+body{
+    background-image: url('body.jpg');
+    height: 100%;
+}
